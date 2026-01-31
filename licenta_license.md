@@ -1,4 +1,4 @@
-<RO> Drepturi de autor (Copyright) 2026 <Serban Mario>
+RO: Drepturi de autor (Copyright) 2026: Serban Mario
 
 Prin prezenta se acordă, gratuit, oricărei persoane care obține o copie a acestui software și a fișierelor asociate de documentație (denumite în continuare „Software-ul”), permisiunea de a utiliza Software-ul fără restricții, inclusiv, fără limitare, drepturile de a folosi, copia, modifica, îmbina, publica, distribui, sublicenția și/sau vinde copii ale Software-ului, precum și de a permite persoanelor cărora le este furnizat Software-ul să facă acest lucru, sub rezerva următoarelor condiții:
 
@@ -8,7 +8,7 @@ Notificarea de drepturi de autor de mai sus și această notificare de permisiun
 
 ---
 
-<EN> Copyright 2026 <Serban Mario>
+EN: Copyright 2026: Serban Mario
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
